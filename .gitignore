@@ -27,3 +27,4 @@
 *.exe
 *.out
 *.app
+/my-simple-red-black-tree/.vs/my-simple-red-black-tree/v15
